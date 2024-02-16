@@ -1,0 +1,19 @@
+ul.circulo {
+    list-style-type: circle;
+}
+
+ul.cuadrado {
+    list-style-type: square;
+}
+
+ul.disco {
+    list-style-type: disc;
+}
+
+ol.roman {
+    list-style-type: upper-roman;
+}
+
+ol.abc {
+    list-style-type: upper-latin;
+}
